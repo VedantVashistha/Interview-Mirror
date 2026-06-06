@@ -1,0 +1,20 @@
+export const questionBank = [
+  { id: "android-b-1", category: "Android Development", difficulty: "Beginner", type: "Technical theory", text: "Explain the Android Activity lifecycle." },
+  { id: "android-b-2", category: "Android Development", difficulty: "Beginner", type: "Technical theory", text: "What is RecyclerView and why is it used?" },
+  { id: "android-i-1", category: "Android Development", difficulty: "Intermediate", type: "Scenario-based", text: "How would you optimize a slow Android screen?" },
+  { id: "android-a-1", category: "Android Development", difficulty: "Advanced", type: "Architecture", text: "How would you structure a large Compose app using Clean Architecture?" },
+  { id: "kotlin-b-1", category: "Kotlin", difficulty: "Beginner", type: "Technical theory", text: "What is null safety in Kotlin?" },
+  { id: "kotlin-i-1", category: "Kotlin", difficulty: "Intermediate", type: "Technical theory", text: "Explain Kotlin coroutines and suspend functions." },
+  { id: "kotlin-a-1", category: "Kotlin", difficulty: "Advanced", type: "Problem-solving", text: "How do Flow, StateFlow, and SharedFlow differ?" },
+  { id: "java-b-1", category: "Java", difficulty: "Beginner", type: "Technical theory", text: "Explain OOP pillars in Java." },
+  { id: "java-i-1", category: "Java", difficulty: "Intermediate", type: "Scenario-based", text: "How would you handle exceptions in a clean service layer?" },
+  { id: "dsa-b-1", category: "DSA", difficulty: "Beginner", type: "Problem-solving", text: "What is time complexity?" },
+  { id: "dsa-i-1", category: "DSA", difficulty: "Intermediate", type: "Problem-solving", text: "When would you use a hash map over an array?" },
+  { id: "hr-b-1", category: "HR Interview", difficulty: "Beginner", type: "HR behavioral", text: "Tell me about yourself." },
+  { id: "hr-i-1", category: "HR Interview", difficulty: "Intermediate", type: "HR behavioral", text: "Describe a time you handled a difficult team situation." },
+  { id: "web-b-1", category: "Web Development", difficulty: "Beginner", type: "Technical theory", text: "Explain how a browser loads a web page." },
+  { id: "web-i-1", category: "Web Development", difficulty: "Intermediate", type: "Scenario-based", text: "How would you improve a slow web application?" },
+  { id: "sql-b-1", category: "Database/SQL", difficulty: "Beginner", type: "Technical theory", text: "What is a primary key?" },
+  { id: "sql-i-1", category: "Database/SQL", difficulty: "Intermediate", type: "Problem-solving", text: "Explain joins with a practical example." },
+  { id: "sql-a-1", category: "Database/SQL", difficulty: "Advanced", type: "Scenario-based", text: "How would you debug a slow SQL query?" }
+];

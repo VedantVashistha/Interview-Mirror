@@ -1,0 +1,7 @@
+.gradle/
+build/
+local.properties
+google-services.json
+node_modules/
+.env
+.DS_Store
